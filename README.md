@@ -3,7 +3,8 @@
 - 👨🏽‍💻 Software Engineer.
 - 🎯 Based in Barcelona, Spain.
 - 🔭 I’m currently working on PHP projects but I'm opened to other languages.
-- 🌱 Continuously learning and improving my Backend & Frontend skills.
+- 🌱 Continuously learning and improving my Backend & DevOps skills.
+- 🖼 I'd like to improve my Frontend skills with the latest existing frameworks.
 - 🙌 I'd like to learn the basics of Machine Learning to apply them to my projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/xserrat) · [LinkedIn](https://www.linkedin.com/in/xserrat/) · [Email](mailto:xavier.serrat22@gmail.com)
 

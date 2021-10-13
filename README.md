@@ -3,6 +3,7 @@
 - 👨🏽‍💻 Software Engineer.
 - 🎯 Based in Barcelona, Spain.
 - 🔭 I’m currently working on PHP projects but I'm opened to other languages.
+- 🤓 Contributor on the open source [Pheature Flags](https://pheatureflags.io/) project.
 - 🌱 Continuously learning and improving my Backend & DevOps skills.
 - 🖼 I'd like to improve my Frontend skills with the latest existing frameworks.
 - 🙌 I'd like to learn the basics of Machine Learning to apply them to my projects.
